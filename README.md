@@ -3,7 +3,7 @@
 A sleek, dynamic food ordering web application built with **React** and **Tailwind CSS**, featuring animated cart interactions, real-time search, responsive design, and modular UI components. Inspired by the UX standards of modern e-commerce sites, Moodie Foodie offers a smooth, intuitive user experience from homepage to checkout.
 
 ## 🚀 Live Demo
-Check it out here: [Moodie Foodie Live](https://your-live-deployment-url.com)
+Check it out here: [Moodie Foodie Live](https://moodie-foodie-nine.vercel.app/)
 
 ## 🛠 Tech Stack
 - **React** – Component-based architecture for dynamic UI
