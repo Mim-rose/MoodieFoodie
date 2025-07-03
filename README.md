@@ -1,12 +1,20 @@
-# React + Vite
+# 🌐 Moodie Foodie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, dynamic food ordering web application built with **React** and **Tailwind CSS**, featuring animated cart interactions, real-time search, responsive design, and modular UI components. Inspired by the UX standards of modern e-commerce sites, Moodie Foodie offers a smooth, intuitive user experience from homepage to checkout.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check it out here: [Moodie Foodie Live](https://your-live-deployment-url.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **React** – Component-based architecture for dynamic UI
+- **Tailwind CSS** – Utility-first styling framework
+- **React Router** – Seamless navigation between pages
+- **LocalStorage** – Persistent cart state across sessions
 
-## Expanding the ESLint configuration
+## 🎯 Features
+- 🍽️ Search and filter food items by category
+- 🛒 Slide-in animated cart with quantity controls
+- 📦 Delivery options with visual selection feedback
+- 🔍 Collapsible sections for ingredients & allergens
+- 🧾 Responsive and accessible design across devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
