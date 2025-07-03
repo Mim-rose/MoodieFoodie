@@ -21,28 +21,28 @@ const About = () => {
         
         {/* Card 1: Fast Delivery */}
         <div className="bg-gray-100 p-8 rounded-lg shadow-md text-center hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
-          <FaTruck className="text-5xl mx-auto text-red-600" />
+          <FaTruck className="text-5xl mx-auto text-amber-500" />
           <h3 className="text-2xl font-semibold mt-4 text-gray-800">Lightning Fast Delivery</h3>
           <p className="text-gray-600 mt-2">Your food, at your doorstep in no time. Speed meets satisfaction.</p>
         </div>
 
         {/* Card 2: Fresh Ingredients */}
         <div className="bg-gray-100 p-8 rounded-lg shadow-md text-center hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
-          <FaLeaf className="text-5xl mx-auto text-red-600" />
+          <FaLeaf className="text-5xl mx-auto text-green-700" />
           <h3 className="text-2xl font-semibold mt-4 text-gray-800">Only Fresh Ingredients</h3>
           <p className="text-gray-600 mt-2">Handpicked, farm-fresh, and full of flavor—because quality matters.</p>
         </div>
 
         {/* Card 3: High Nutrition */}
         <div className="bg-gray-100 p-8 rounded-lg shadow-md text-center hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
-          <FaHeartbeat className="text-5xl mx-auto text-red-600" />
+          <FaHeartbeat className="text-5xl mx-auto text-red-700" />
           <h3 className="text-2xl font-semibold mt-4 text-gray-800">High Nutritional Value</h3>
           <p className="text-gray-600 mt-2">Fueling your body with premium nutrition for a healthier lifestyle.</p>
         </div>
 
         {/* Card 4: Best Taste */}
         <div className="bg-gray-100 p-8 rounded-lg shadow-md text-center hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
-          <FaUtensils className="text-5xl mx-auto text-red-600" />
+          <FaUtensils className="text-5xl mx-auto text-zinc-500" />
           <h3 className="text-2xl font-semibold mt-4 text-gray-800">Unmatched Taste</h3>
           <p className="text-gray-600 mt-2">Crafted by expert chefs for an unforgettable food experience.</p>
         </div>

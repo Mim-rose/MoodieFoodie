@@ -36,7 +36,7 @@ const Home = () => {
       <hr className="border-gray-300 my-6" />
 
       {/* ✅ Product Cards Grid with evenly distributed spacing */}
-      <div className="mt-[40px] grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-4 gap-y-10 px-4 sm:px-6 lg:px-10 py-8 container mx-auto">
+      <div className="mt-[37px] grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-4 gap-y-10 px-4 sm:px-6 lg:px-10 py-8 container mx-auto">
         {filteredItems.length > 0 ? (
           filteredItems.map((foodItem) => (
             <Link to={`/product/${foodItem.id}`} key={foodItem.id} className="block">
