@@ -66,20 +66,31 @@ MoodieFoodie/
 
 ---
 
-🧠 Installation & Setup
-1. Clone the repository
+## 🧠 Installation & Setup
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/Mim-rose/MoodieFoodie.git
 cd MoodieFoodie
+```
 
-2. Setup frontend
+### 2. Setup frontend
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
-3. Setup backend
+### 3. Setup backend
+```bash
 cd ../backend
 npm install
 npm start
+```
+```
+
+---
+
 ## 🎯 Technical Highlights
 
 * **Modern UI/UX** - Clean, responsive interface built with Tailwind CSS + DaisyUI components
