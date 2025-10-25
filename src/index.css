@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer base {
+  .swiper-button-next,
+  .swiper-button-prev {
+    color:#f59e0b ; /* visible */
+    z-index: 10;
+     width: 40px;
+    height: 40px;
+  }
+}

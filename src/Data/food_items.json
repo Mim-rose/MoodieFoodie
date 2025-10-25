@@ -1,0 +1,980 @@
+[
+  {
+    "_id": "ac397db330af8da71698a6be",
+    "food_name": "Cheeseburger",
+    "description": "Beef patty with cheddar and special sauce",
+    "food_category": "burger",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+    "price": 5.29,
+    "tags": [
+      "burger",
+      "non-veg",
+      "fast-food",
+      "cheesy"
+    ],
+    "average_rating": 4.1
+
+  },
+
+  {
+    "_id": "5dd30923ed1b02e1c223e8d5",
+    "food_name": "Kimchi Fried Rice",
+    "description": "Spicy fermented kimchi with fried rice and egg",
+    "food_category": "korean",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1718777791262-c66d11baaa3b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGtvcmVhbiUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "price": 18.57,
+    "tags": [
+      "korean",
+      "non-veg",
+      "spicy",
+      "rice"
+    ],
+    "average_rating": 4.1
+
+  },
+  {
+    "_id": "1a56b48d57a5f40f63e73c49",
+    "food_name": "Ice Cream Sundae",
+    "description": "Ice cream topped with chocolate syrup and nuts",
+    "food_category": "dessert",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg",
+    "price": 19.65,
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "sweet",
+      "popular"
+    ],
+    "average_rating": 4.5
+  },
+  {
+    "_id": "373269b8c18037ddfdd85bf6",
+    "food_name": "French Toast",
+    "description": "Bread dipped in egg and fried with cinnamon",
+    "food_category": "breakfast",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "price": 16.1,
+     "tags": [
+      "breakfast",
+      "vegetarian",
+      "sweet"
+    ],
+    "average_rating": 4.2
+  },
+  {
+    "_id": "512685e95c0dc0bd8980359e",
+    "food_name": "Orange Juice",
+    "description": "Fresh squeezed orange juice",
+    "food_category": "juices",
+    "food_type": "veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1667543228378-ec4478ab2845?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8anVpY2V8ZW58MHx8MHx8fDA%3D",
+    "price": 13.16,
+     "tags": [
+      "juices",
+      "vegetarian",
+      "beverage",
+      "citrus"
+    ],
+    "average_rating": 4.3
+  },
+  
+  {
+    "_id": "8dc88dc09fb11d119561b4c7",
+    "food_name": "Pancakes",
+    "description": "Fluffy pancakes with maple syrup and berries",
+    "food_category": "breakfast",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "price": 12.7,
+     "tags": [
+      "breakfast",
+      "vegetarian",
+      "sweet"
+    ],
+    "average_rating": 4.2
+  },
+  {
+    "_id": "f5393da5ea09140c83f58509",
+    "food_name": "Chicken Burger",
+    "description": "Grilled chicken breast with mayo and lettuce",
+    "food_category": "burger",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVyZ2VyfGVufDB8fDB8fHww",
+    "price": 8.05,
+     "tags": [
+      "burger",
+      "non-veg",
+      "fast-food",
+      "chicken"
+    ],
+    "average_rating": 4.4
+  },
+  {
+    "_id": "0d32b4e27e516e76700b5117",
+    "food_name": "Fettuccine Alfredo",
+    "description": "Creamy Alfredo sauce with parmesan cheese",
+    "food_category": "pasta",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1644921504851-b8861be402ac?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 10.89,
+     "tags": [
+      "pasta",
+      "vegetarian",
+      "italian",
+      "noodles",
+      "creamy"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "2f08c0680351a6f149c3ea76",
+    "food_name": "Lamb Chops",
+    "description": "Grilled lamb chops with rosemary",
+    "food_category": "main_course",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1625944228741-cf30983ecb91?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG11dHRvbnxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 13.15,
+     "tags": [
+      "main_course",
+      "non-veg",
+      "hearty",
+      "grilled",
+      "lamb"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "cb49ec2535df30dd589f51b6",
+    "food_name": "Smoothie",
+    "description": "Mixed fruit smoothie with yogurt",
+    "food_category": "drink",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c21vb3RoaWV8ZW58MHx8MHx8fDA%3D",
+    "price": 14.15,
+     "tags": [
+      "drink",
+      "vegetarian",
+      "beverage",
+      "smoothie"
+    ],
+    "average_rating": 3.8
+  },
+  
+  {
+    "_id": "9b7b0d6f9049fd249404b677",
+    "food_name": "Veg Biryani",
+    "description": "Basmati rice cooked with mixed vegetables",
+    "food_category": "biriyani",
+    "food_type": "veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1695029505425-32496d18869b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 12.96,
+    "tags": [
+      "biriyani",
+      "vegetarian",
+      "south-asian",
+      "rice",
+      "spiced",
+      "popular"
+    ],
+    "average_rating": 4.8
+     
+
+  },
+  
+  {
+    "_id": "1142e8be658ae49920b6e5a5",
+    "food_name": "Roast Chicken",
+    "description": "Herb roasted chicken with vegetables",
+    "food_category": "main_course",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1728412893670-f7d3709276c1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cm9hc3QlMjBjaGlja2VufGVufDB8fDB8fHww",
+    "price": 15.03,
+    "tags": [
+      "main_course",
+      "non-veg",
+      "hearty",
+      "grilled",
+      "chicken"
+    ],
+    "average_rating": 4.2
+
+  },
+  
+  {
+    "_id": "f0c19aa622739dab270e0110",
+    "food_name": "Carrot Juice",
+    "description": "Sweet and healthy carrot juice",
+    "food_category": "juices",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1556764900-78b59cf886af?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90JTIwanVpY2V8ZW58MHx8MHx8fDA%3D",
+    "price": 13.48,
+    "tags": [
+      "juices",
+      "vegetarian",
+      "beverage",
+      "vitamin-a"
+    ],
+    "average_rating": 4.2
+
+  },
+  {
+    "_id": "3da4f764f250e0d774cd39f5",
+    "food_name": "Pesto Pasta",
+    "description": "Pasta tossed in fresh basil pesto sauce",
+    "food_category": "pasta",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1435903/pexels-photo-1435903.jpeg",
+    "price": 14.37,
+    "tags": [
+      "pasta",
+      "vegetarian",
+      "italian",
+      "noodles",
+      "herbaceous"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "be3623b3450d97d8c57bf00c",
+    "food_name": "Egg Benedict",
+    "description": "Poached eggs on English muffin with hollandaise",
+    "food_category": "breakfast",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d",
+    "price": 13.48,
+     "tags": [
+      "breakfast",
+      "non-veg",
+      "sweet"
+    ],
+    "average_rating": 4.0
+  },
+  
+  {
+    "_id": "5a1a54530cf341c706c01dad",
+    "food_name": "Beef Steak",
+    "description": "Grilled beef steak with garlic butter",
+    "food_category": "main_course",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+    "price": 13.76,
+    "tags": [
+      "main_course",
+      "non-veg",
+      "hearty",
+      "grilled",
+      "beef"
+    ],
+    "average_rating": 3.9
+  },
+  {
+    "_id": "9986831db1c60c793c2447af",
+    "food_name": "Chocolate Lava Cake",
+    "description": "Warm cake with a molten chocolate center",
+    "food_category": "dessert",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1606209005463-5718385da56b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDY5fHx8ZW58MHx8fHx8",
+    "price": 18.36,
+    
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "sweet",
+      "baked"
+    ],
+    "average_rating": 4.7
+  },
+  {
+    "_id": "19503d0d623cf764dda3be82",
+    "food_name": "Tomato Basil Soup",
+    "description": "Creamy tomato soup with fresh basil",
+    "food_category": "soups",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+    "price": 7.46,
+    "tags": [
+      "soups",
+      "vegetarian",
+      "italian"
+    ],
+    "average_rating": 4.0
+
+  },
+  {
+    "_id": "3df1121a299e016ef7028ccb",
+    "food_name": "BBQ Chicken Pizza",
+    "description": "Pizza with BBQ chicken and red onions",
+    "food_category": "pizza",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1751026044631-2aa676914b1b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmJxJTIwJTIwY2hpY2tlbiUyMHBpenphfGVufDB8fDB8fHww",
+    "price": 7.74,
+     "tags": [
+      "pizza",
+      "non-veg",
+      "italian",
+      "noodles",
+      "bbq",
+      "chicken",
+      "popular"
+    ],
+    "average_rating": 4.4
+  },
+  {
+    "_id": "0f94eb24a956a044c7cbe34a",
+    "food_name": "Waldorf Salad",
+    "description": "Apple, celery, and walnuts in mayo",
+    "food_category": "salad",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg",
+    "price": 11.23,
+      "tags": [
+      "salad",
+      "vegetarian",
+      "light",
+      "fruity"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "6e7707202f2dd496931d99e6",
+    "food_name": "Mushroom Swiss Burger",
+    "description": "Beef patty with mushrooms and Swiss cheese",
+    "food_category": "burger",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 8.15,
+      "tags": [
+      "burger",
+      "non-veg",
+      "fast-food",
+      "cheesy"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "2f19ea06270f1850d337e8fb",
+    "food_name": "Bibimbap",
+    "description": "Mixed rice with vegetables and beef",
+    "food_category": "korean",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1718777791239-c473e9ce7376?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmliaW1iYXB8ZW58MHx8MHx8fDA%3D",
+    "price": 8.16,
+     "tags": [
+      "korean",
+      "non-veg"
+    ],
+    "average_rating": 4.2
+  },
+  {
+    "_id": "fc7053f6b4af45bc53cbad79",
+    "food_name": "Caesar Salad",
+    "description": "Romaine lettuce, croutons, and Caesar dressing",
+    "food_category": "salad",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+    "price": 10.66,
+    "tags": [
+      "salad",
+      "non-veg",
+      "light",
+      "classic"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "93b18841142cbf4eaafb819a",
+    "food_name": "Penne Arrabiata",
+    "description": "Spicy tomato sauce with garlic and chili",
+    "food_category": "pasta",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1619895092538-128341789043?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFzYWduYXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 11.73,
+     "tags": [
+      "pasta",
+      "vegetarian",
+      "italian",
+      "noodles",
+      "spicy"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "ebc5616852f0d6dcd3b4cd5d",
+    "food_name": "Egg Biryani",
+    "description": "Biryani with boiled eggs and spices",
+    "food_category": "biriyani",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1695029502961-f57f307bd0c0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 18.57,
+     "tags": [
+      "biriyani",
+      "non-veg",
+      "south-asian",
+      "rice",
+      "spiced",
+      "popular"
+    ],
+    "average_rating": 4.7
+  },
+  {
+    "_id": "4015a9e014a03513a0b58e7b",
+    "food_name": "Tteokbokki",
+    "description": "Spicy rice cakes in chili sauce",
+    "food_category": "korean",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1679581083909-daf9604102ac?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHRlb2tib2traXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 6.95,
+    "tags": [
+      "korean",
+      "vegetarian",
+      "spicy",
+      "street-food"
+    ],
+    "average_rating": 4.1
+  },
+  
+  {
+    "_id": "80b317bb8e180b351a75919c",
+    "food_name": "Pumpkin Soup",
+    "description": "Smooth pumpkin soup with a hint of nutmeg",
+    "food_category": "soups",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg",
+    "price": 13.14,
+    "tags": [
+      "soups",
+      "vegetarian",
+      "italian"
+    ],
+    "average_rating": 4.0
+  },
+  {
+    "_id": "cfc531b37486b08c8319c0f3",
+    "food_name": "Veggie Pizza",
+    "description": "Pizza loaded with bell peppers and olives",
+    "food_category": "pizza",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/4109137/pexels-photo-4109137.jpeg",
+    "price": 9.95,
+    "tags": [
+      "pizza",
+      "vegetarian",
+      "italian",
+      "noodles",
+      "cheesy"
+    ],
+    "average_rating": 4.3
+
+  },
+  {
+    "_id": "f13e5272e7db52e8af6562ac",
+    "food_name": "Korean BBQ",
+    "description": "Grilled meat served with side dishes",
+    "food_category": "korean",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1612179343574-31b219a3915c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+    "price": 13.67,
+    "tags": [
+      "korean",
+      "non-veg",
+      "bbq"
+    ],
+    "average_rating": 4.2
+  },
+  {
+    "_id": "71bd08475a3459c6a50888dd",
+    "food_name": "Beetroot Juice",
+    "description": "Earthy beetroot and apple juice",
+    "food_category": "juices",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1614707585284-9cb9fc018387?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGp1aWNlfGVufDB8fDB8fHww",
+    "price": 17.91,
+    "tags": [
+      "juices",
+      "vegetarian",
+      "beverage",
+      "detox"
+    ],
+    "average_rating": 4.1
+
+  },
+  {
+    "_id": "8e9e7fa2ea93c1999516adad",
+    "food_name": "Sweet and Sour Pork",
+    "description": "Pork in sweet and sour sauce",
+    "food_category": "chinese",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg",
+    "price": 11.7,
+      "tags": [
+      "chinese",
+      "non-veg",
+      "meat",
+      "spicy"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "123deff24da08667cb46b3e2",
+    "food_name": "Japchae",
+    "description": "Stir-fried glass noodles with vegetables",
+    "food_category": "korean",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1670819917394-03031b377bea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM4fHx8ZW58MHx8fHx8",
+    "price": 11.0,
+    "tags": [
+      "korean",
+      "vegetarian",
+      "noodles",
+      "street-food"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "4c2d0ae70767d9970dec25d3",
+    "food_name": "Breakfast Burrito",
+    "description": "Tortilla filled with eggs, cheese, and sausage",
+    "food_category": "breakfast",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "price": 8.28,
+    "tags": [
+      "breakfast",
+      "non-veg",
+      "wrap",
+      "cheesy"
+    ],
+    "average_rating": 4.0
+  },
+  
+  {
+    "_id": "51dc9a88488bc6857ce80412",
+    "food_name": "Avocado Toast",
+    "description": "Sourdough bread with smashed avocado and feta",
+    "food_category": "breakfast",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg",
+    "price": 13.18,
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "trendy"
+    ],
+    "average_rating": 4.1
+
+  },
+  {
+    "_id": "18b0b134e340c4ed31755103",
+    "food_name": "Green Detox Juice",
+    "description": "Kale, apple, cucumber, and lemon juice",
+    "food_category": "juices",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 17.38,
+    "tags": [
+      "juices",
+      "vegetarian",
+      "beverage",
+      "detox"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "77658d81a25f40a5e6ad4a9c",
+    "food_name": "Mojito",
+    "description": "Refreshing mint lime cocktail with rum",
+    "food_category": "drink",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1546171753-97d7676e4602?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9qaXRvfGVufDB8fDB8fHww",
+    "price": 15.39,
+    "tags": [
+      "drink",
+      "vegetarian",
+      "beverage",
+      "mint",
+      "cocktail"
+    ],
+    "average_rating": 3.6
+
+  },
+  {
+    "_id": "41311df029286d79604332ff",
+    "food_name": "Spaghetti Carbonara",
+    "description": "Pasta with eggs, cheese, and bacon",
+    "food_category": "pasta",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/1435901/pexels-photo-1435901.jpeg",
+    "price": 19.68,
+    "tags": [
+      "pasta",
+      "non-veg",
+      "italian",
+      "noodles",
+      "bacon"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "bdc888b3133992cb6796ce35",
+    "food_name": "Mutton Biryani",
+    "description": "Spiced mutton biryani with saffron",
+    "food_category": "biriyani",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1739909301016-0824e6d8fc68?q=80&w=1142&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 11.62,
+     "tags": [
+      "biriyani",
+      "non-veg",
+      "south-asian",
+      "rice",
+      "spiced",
+      "popular"
+    ],
+    "average_rating": 4.9
+  },
+  {
+    "_id": "d534a7cfbb1a4363c1599eab",
+    "food_name": "Kung Pao Chicken",
+    "description": "Stir-fried chicken with peanuts and chili",
+    "food_category": "chinese",
+    "food_type": "non-veg",
+    "food_image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+    "price": 16.46,
+    "tags": [
+      "chinese",
+      "non-veg",
+      "spicy",
+      "chicken"
+    ],
+    "average_rating": 4.3
+
+  },
+  {
+    "_id": "e211363ca7981fbdeb2b7f04",
+    "food_name": "Lemonade",
+    "description": "Freshly squeezed lemon juice with sugar",
+    "food_category": "drink",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1574689685526-a9281777ee89?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 9.45,
+    "tags": [
+      "drink",
+      "vegetarian",
+      "beverage",
+      "citrus",
+      "popular"
+    ],
+    "average_rating": 4.0
+
+  },
+  {
+    "_id": "6b1448e6ea80edde703549b5",
+    "food_name": "Fish Biryani",
+    "description": "Biryani with spiced fish pieces",
+    "food_category": "biriyani",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1669261882002-f8d7ea049dab?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 9.32,
+    "tags": [
+      "biriyani",
+      "non-veg",
+      "south-asian",
+      "rice",
+      "spiced",
+      "popular"
+    ],
+    "average_rating": 4.7
+  },
+  {
+    "_id": "8a59756190919f5cd1b49cb6",
+    "food_name": "Tiramisu",
+    "description": "Coffee-flavored Italian dessert",
+    "food_category": "dessert",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1639744211487-b27e3551b07c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VGlyYW1pc3V8ZW58MHx8MHx8fDA%3D",
+    "price": 11.05,
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "sweet",
+      "coffee"
+    ],
+    "average_rating": 4.3
+  },
+  {
+    "_id": "a2e6c6745e7b835cee14409a",
+    "food_name": "Hawaiian Pizza",
+    "description": "Pizza with ham and pineapple",
+    "food_category": "pizza",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1723478458871-fe6606e93261?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGF3YWlpYW4lMjBwaXp6YXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 11.81,
+    "tags": [
+      "pizza",
+      "non-veg",
+      "italian",
+      "noodles",
+      "pineapple"
+    ],
+    "average_rating": 4.0
+  },
+  {
+    "_id": "868e42032dff2dba3109d5c0",
+    "food_name": "Garden Salad",
+    "description": "Mixed greens with fresh vegetables",
+    "food_category": "salad",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg",
+    "price": 19.39,
+     "tags": [
+      "salad",
+      "vegetarian",
+      "light",
+      "fresh"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "eced79893f8805470da4bd8d",
+    "food_name": "Minestrone",
+    "description": "Italian vegetable soup with beans and pasta",
+    "food_category": "soups",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+    "price": 13.56,
+    "tags": [
+      "soups",
+      "vegetarian",
+      "italian"
+    ],
+    "average_rating": 4.0
+
+  },
+  {
+    "_id": "1bca129aa6075c1469c7de05",
+    "food_name": "Veggie Burger",
+    "description": "Grilled veggie patty with lettuce and tomato",
+    "food_category": "burger",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+    "price": 15.33,
+    "tags": [
+      "burger",
+      "vegetarian",
+      "fast-food"
+    ],
+    "average_rating": 4.2
+  },
+  {
+    "_id": "5e284e0b26813fc82de25db0",
+    "food_name": "Greek Salad",
+    "description": "Tomatoes, cucumbers, olives, and feta",
+    "food_category": "salad",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdyZWVrJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D",
+    "price": 7.71,
+    "tags": [
+      "salad",
+      "vegetarian",
+      "light",
+      "mediterranean",
+      "fresh"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "730a45ab9803419147bd5828",
+    "food_name": "Cocktail",
+    "description": "Mixed alcoholic beverage with garnish",
+    "food_category": "drink",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1609345265499-2133bbeb6ce5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vaml0b3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 6.54,
+     "tags": [
+      "drink",
+      "vegetarian",
+      "beverage",
+      "cocktail"
+    ],
+    "average_rating": 3.6
+  },
+  {
+    "_id": "52b4a00b158011d8ac69b5b7",
+    "food_name": "Grilled Salmon",
+    "description": "Salmon fillet with lemon butter sauce",
+    "food_category": "main_course",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1509402308-817902776267?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyaWxsZWQlMjBmaXNofGVufDB8fDB8fHww",
+    "price": 11.74,
+    "tags": [
+      "main_course",
+      "non-veg",
+      "hearty",
+      "grilled",
+      "seafood"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "f2ffff13b5b888d417e4d1cd",
+    "food_name": "Apple Pie",
+    "description": "Classic apple pie with a flaky crust",
+    "food_category": "dessert",
+    "food_type": "veg",
+    "food_image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGllfGVufDB8fDB8fHww",
+    "price": 6.17,
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "sweet",
+      "baked"
+    ],
+    "average_rating": 4.3
+  },
+  {
+    "_id": "0dcd2c53e147c69edf1f3378",
+    "food_name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce and mozzarella",
+    "food_category": "pizza",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1435907/pexels-photo-1435907.jpeg",
+    "price": 12.8,
+     "tags": [
+      "pizza",
+      "vegetarian",
+      "italian",
+      "noodles",
+      "cheesy",
+      "popular"
+    ],
+    "average_rating": 4.4
+
+  },
+  {
+    "_id": "5b3c2d3266edb5c9626d2a07",
+    "food_name": "Fried Rice",
+    "description": "Rice stir-fried with eggs and vegetables",
+    "food_category": "chinese",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+    "price": 13.93,
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "rice",
+      "popular"
+    ],
+    "average_rating": 4.5
+  },
+  
+  {
+    "_id": "1a23f878ad67871de31296e2",
+    "food_name": "Dumplings",
+    "description": "Steamed dumplings with meat filling",
+    "food_category": "chinese",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1661601693865-606463791d74?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 13.14,
+    "tags": [
+      "chinese",
+      "non-veg",
+      "street-food"
+    ],
+    "average_rating": 4.3
+
+  },
+  {
+    "_id": "e0df1bcb11ce8e5e33a0e6fe",
+    "food_name": "Quinoa Salad",
+    "description": "Quinoa with mixed vegetables and herbs",
+    "food_category": "salad",
+    "food_type": "veg",
+    "food_image": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg",
+    "price": 13.26,
+    "tags": [
+      "salad",
+      "vegetarian",
+      "light",
+      "fresh"
+    ],
+    "average_rating": 3.8
+  },
+  {
+    "_id": "dd564d34d4bc5c727c78f940",
+    "food_name": "Chicken Biryani",
+    "description": "Fragrant basmati rice with chicken and spices",
+    "food_category": "biriyani",
+    "food_type": "non-veg",
+    "food_image": "https://plus.unsplash.com/premium_photo-1694141252883-39e9cfd511b3?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 16.37,
+    "tags": [
+      "biriyani",
+      "non-veg",
+      "south-asian",
+      "rice",
+      "spiced",
+      "popular",
+      "chicken"
+    ],
+    "average_rating": 4.9
+  },
+  {
+    "_id": "819781f2ee9b23fe5cc8fb89",
+    "food_name": "Pepperoni Pizza",
+    "description": "Pizza topped with pepperoni and cheese",
+    "food_category": "pizza",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1649632984092-d60b0eb505fc?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhhd2FpaWFuJTIwcGl6emF8ZW58MHx8MHx8fDA%3D",
+    "price": 6.41,
+     "tags": [
+      "pizza",
+      "non-veg",
+      "italian",
+      "noodles",
+      "meat",
+      "cheesy"
+    ],
+    "average_rating": 4.0
+  },
+  {
+    "_id": "6df2785f77c7bdd36f068799",
+    "food_name": "Lasagna",
+    "description": "Layered pasta with meat, cheese, and tomato sauce",
+    "food_category": "pasta",
+    "food_type": "non-veg",
+    "food_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3",
+    "price": 9.94,
+    "tags": [
+      "pasta",
+      "non-veg",
+      "italian",
+      "noodles",
+      "baked",
+      "cheesy"
+    ],
+    "average_rating": 4.1
+  },
+  {
+    "_id": "feb9bfc8cc381149d1356278",
+    "food_name": "Cheesecake",
+    "description": "Creamy cheesecake with a graham cracker crust",
+    "food_category": "dessert",
+    "food_type": "veg",
+    "food_image": "https://unsplash.com/photos/sliced-of-cake-on-black-plate-s8_7AqkzCWY",
+    "price": 5.77,
+     "tags": [
+      "dessert",
+      "vegetarian",
+      "sweet"
+    ],
+    "average_rating": 4.4
+  }
+]
+
+
+
+
