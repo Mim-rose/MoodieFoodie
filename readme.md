@@ -45,7 +45,7 @@ Built with the **MERN Stack (MongoDB, Express.js, React, Node.js)** — it allow
 ---
 
 ## 🧩 Folder Structure
-
+```
 MoodieFoodie/
 │
 ├── frontend/        # React frontend (client-side)
@@ -61,6 +61,10 @@ MoodieFoodie/
 │   └── server.js
 │
 └── README.md
+```
+```
+
+---
 
 🧠 Installation & Setup
 1. Clone the repository
