@@ -1,7 +1,7 @@
 import React, { createContext, useState, useEffect, useContext } from 'react';
 import { AuthContext } from '../providers/AuthProvider';
 
-export const CartContext = createContext({});
+export const CartContext = createContext();
 
 const API_URL = import.meta.env.VITE_API_URL;
 
