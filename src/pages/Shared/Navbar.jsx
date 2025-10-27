@@ -8,6 +8,7 @@ import { FaUserPlus, FaSignInAlt } from "react-icons/fa";
 import { AuthContext } from '../../providers/AuthProvider';
 import { FaUserCircle } from "react-icons/fa";
 import { CartContext } from '../CartProvider';
+import logo from '../../assets/logo.png';
 
 
 const Navbar = () => {
@@ -57,7 +58,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-3">
             <div className='items-center justify-center' >
               <img
-    src="../../assets/logo.png" // or use an imported image
+    src={logo} // or use an imported image
     alt="MoodieFoodie Logo"
     className="w-12 h-12 object-contain mb-4  "
   />
