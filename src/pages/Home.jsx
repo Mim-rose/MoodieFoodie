@@ -7,6 +7,7 @@ import Menu from './Menu';
 import Featured from './Featured';
 import Reviews from './Reviews';
 import HomeCardsSection from './HomeCardsSection';
+import About from '../components/About';
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <HomeCardsSection></HomeCardsSection>
       <Menu></Menu>
       <Featured></Featured>
+      <About></About>
       <Reviews></Reviews>
 
 

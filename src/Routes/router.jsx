@@ -32,6 +32,7 @@ import CheckoutPage from '../pages/CheckoutPage';
 
 
 
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -77,6 +78,7 @@ const router = createBrowserRouter([
     </PrivateRoute>
   ),
 },
+
         {
           path: "/signup",
           element: <SignUp></SignUp>
