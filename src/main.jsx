@@ -13,9 +13,9 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <AuthProvider> {/* ✅ AuthContext is available to children */}
       <CartProvider> {/* ✅ Can safely use AuthContext */}
-        <div className='max-w-screen-xl mx-auto'>
+        
           <RouterProvider router={router} />
-        </div>
+        
       </CartProvider>
     </AuthProvider>
   </StrictMode>
