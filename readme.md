@@ -9,8 +9,8 @@ Built with the **MERN Stack (MongoDB, Express.js, React, Node.js)** — it allow
 
 | Platform | URL |
 |-----------|-----|
-| **Frontend (Vercel)** | [Add your Vercel link here](#) |
-| **Backend (Render)** | [Add your Render link here](#) |
+| **Frontend (Vercel)** | [https://moodie-foodie-psi.vercel.app/](#) |
+
 
 ---
 
