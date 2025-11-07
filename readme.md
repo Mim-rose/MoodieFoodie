@@ -9,7 +9,7 @@ Built with the **MERN Stack (MongoDB, Express.js, React, Node.js)** — it allow
 
 | Platform | URL |
 |-----------|-----|
-| **Frontend (Vercel)** | [https://moodie-foodie-psi.vercel.app/](#) |
+| **Frontend (Vercel)** | [https://moodie-foodie-psi.vercel.app](#) |
 
 
 ---
