@@ -89,7 +89,7 @@ npm start
 ```
 ```
 
----
+
 
 ## 🎯 Technical Highlights
 
@@ -106,7 +106,7 @@ npm start
 - **API Optimization** – RESTful API with error handling and MongoDB aggregation pipelines  
 - **Environment Configuration** – Separate development and production environment variables  
 
----
+
 
 ## 🧑‍💻 Author
 
