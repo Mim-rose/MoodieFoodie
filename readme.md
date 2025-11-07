@@ -91,21 +91,31 @@ npm start
 
 ---
 
-## 🎯 Technical Highlights
+🎯 Technical Highlights
 
-* **Modern UI/UX** - Clean, responsive interface built with Tailwind CSS + DaisyUI components
-* **Dual Authentication** - Firebase Authentication + JWT token-based authorization with secure token management
-* **Real-time Cart Management** - Dynamic cart updates with instant quantity adjustments and price calculations
-* **Payment Integration** - Secure Stripe payment processing with client-side confirmation
-* **Role-Based Access Control** - Separate dashboards for customers and admin with protected routes
-* **Admin Analytics** - Interactive data visualization with Recharts for orders, revenue, and user insights
-* **Coupon System** - Dynamic discount management with expiry validation
-* **Inventory Management** - Full CRUD operations for menu items with image uploads
-* **Order Tracking** - Real-time order status updates from pending to completed
-* **Mobile Optimized** - Fully responsive design that works seamlessly across all devices
-* **API Optimization** - RESTful API with error handling and MongoDB aggregation pipelines
-* **Environment Configuration** - Separate development and production environment variables
-```
+Modern UI/UX - Clean, responsive interface built with Tailwind CSS + DaisyUI components
+
+Dual Authentication - Firebase Authentication + JWT token-based authorization with secure token management
+
+Real-time Cart Management - Dynamic cart updates with instant quantity adjustments and price calculations
+
+Payment Integration - Secure Stripe payment processing with client-side confirmation
+
+Role-Based Access Control - Separate dashboards for customers and admin with protected routes
+
+Admin Analytics - Interactive data visualization with Recharts for orders, revenue, and user insights
+
+Coupon System - Dynamic discount management with expiry validation
+
+Inventory Management - Full CRUD operations for menu items with image uploads
+
+Order Tracking - Real-time order status updates from pending to completed
+
+Mobile Optimized - Fully responsive design that works seamlessly across all devices
+
+API Optimization - RESTful API with error handling and MongoDB aggregation pipelines
+
+Environment Configuration - Separate development and production environment variables
 
 ---
 
