@@ -11,8 +11,6 @@ Built with the **MERN Stack (MongoDB, Express.js, React, Node.js)** — it allow
 |-----------|-----|
 | **Frontend (Vercel)** | [Visit Live Site](https://moodie-foodie-psi.vercel.app) |
 
-
-
 ---
 
 ## ⚙️ Tech Stack
@@ -63,7 +61,6 @@ MoodieFoodie/
 │
 └── README.md
 ```
-```
 
 ---
 
@@ -88,9 +85,8 @@ cd ../backend
 npm install
 npm start
 ```
-```
 
-
+---
 
 ## 🎯 Technical Highlights
 
@@ -107,10 +103,20 @@ npm start
 - **API Optimization** – RESTful API with error handling and MongoDB aggregation pipelines  
 - **Environment Configuration** – Separate development and production environment variables  
 
-
+---
 
 ## 🧑‍💻 Author
 
 **Developed by:** Jannatul Afrose Mim  
-**GitHub:** [@Mim-rose](https://github.com/Mim-rose)
+**GitHub:** [@Mim-rose](https://github.com/Mim-rose)  
+**LinkedIn:** [Jannatul Afrose Mim](https://www.linkedin.com/in/jannatul-afrose-mim)
 
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+⭐ **If you like this project, please give it a star on GitHub!**
